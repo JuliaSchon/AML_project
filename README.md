@@ -1,6 +1,6 @@
 # AML Project
 
-- put data in '02' as 'Spotify_Dataset_V3.csv'
+- put data in '02/src' as 'Spotify_Dataset_V3.csv'
 - setup a python3 virtual environment and install the following packages: pandas, numpy, matplotlib, scikit learn, seaborn, imblearn, pickle, xgboost, spotipy
 - run the individual '.ipynb' type notebooks in '02/src' with 'Data Processing.ipynb' for data processing, 'EDA.ipynb' for exploratory data analysis, 'modelCreation.ipynb' for model setup and evaluting the performance, 'futurePredictions.ipynb' for obtaining model's prediction on unseen examples. 
 
